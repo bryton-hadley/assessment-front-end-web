@@ -63,5 +63,5 @@ img {
 
 .inputs {
 	display: flex;
-	
+	flex-direction: column;
 }
